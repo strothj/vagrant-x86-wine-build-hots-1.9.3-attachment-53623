@@ -1,0 +1,7 @@
+build/*
+!build/dlls
+build/dlls/*
+!build/dlls/ntdll
+build/dlls/ntdll/*
+!build/dlls/ntdll/ntdll.dll.so
+.vagrant
